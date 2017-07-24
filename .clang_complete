@@ -1,0 +1,66 @@
+-IC:\Users\Mabele\.platformio\packages\framework-arduinoavr\cores\arduino
+-IC:\Users\Mabele\.platformio\packages\framework-arduinoavr\variants\standard
+-IC:\Users\Mabele\.platformio\packages\framework-arduinoavr\libraries\__cores__\arduino\SoftwareSerial\src
+-IC:\Users\Mabele\.platformio\lib\TheThingsNetwork_ID987\src
+-IC:\Users\Mabele\Documents\thingsuno_otaa\src
+-IC:\Users\Mabele\.platformio\lib\ACS712 Current Sensor_ID1601\src
+-IC:\Users\Mabele\.platformio\lib\Adafruit FONA Library
+-IC:\Users\Mabele\.platformio\lib\Adafruit MQTT Library
+-IC:\Users\Mabele\.platformio\lib\Adafruit SleepyDog Library
+-IC:\Users\Mabele\.platformio\lib\Adafruit SleepyDog Library\utility
+-IC:\Users\Mabele\.platformio\lib\Adafruit Unified Sensor
+-IC:\Users\Mabele\.platformio\lib\ArduinoJson\src
+-IC:\Users\Mabele\.platformio\lib\DHT sensor library
+-IC:\Users\Mabele\.platformio\lib\DHT sensor library@src-04f710328e046f26b51e91a76f6c3e2b
+-IC:\Users\Mabele\.platformio\lib\DHT sensor library@src-3ad03d9e4fe9bb6f16654db93f7d1c49
+-IC:\Users\Mabele\.platformio\lib\DS3231_RTC
+-IC:\Users\Mabele\.platformio\lib\DS3231_Simple
+-IC:\Users\Mabele\.platformio\lib\DS3232RTC
+-IC:\Users\Mabele\.platformio\lib\GSM-GPRS-GPS-Shield
+-IC:\Users\Mabele\.platformio\lib\JeeLib
+-IC:\Users\Mabele\.platformio\lib\Knobs_ID1505
+-IC:\Users\Mabele\.platformio\lib\MFRC522_ID63\src
+-IC:\Users\Mabele\.platformio\lib\PubSubClient\src
+-IC:\Users\Mabele\.platformio\lib\RTClib
+-IC:\Users\Mabele\.platformio\lib\TheThingsNetwork_ID987\src
+-IC:\Users\Mabele\.platformio\lib\arduino-DHT
+-IC:\Users\Mabele\.platformio\lib\ds3231
+-IC:\Users\Mabele\.platformio\packages\framework-arduinoavr\libraries\__cores__\arduino\EEPROM\src
+-IC:\Users\Mabele\.platformio\packages\framework-arduinoavr\libraries\__cores__\arduino\SPI\src
+-IC:\Users\Mabele\.platformio\packages\framework-arduinoavr\libraries\__cores__\arduino\SPI1\src
+-IC:\Users\Mabele\.platformio\packages\framework-arduinoavr\libraries\__cores__\arduino\Servo\src
+-IC:\Users\Mabele\.platformio\packages\framework-arduinoavr\libraries\__cores__\arduino\SoftwareSerial\src
+-IC:\Users\Mabele\.platformio\packages\framework-arduinoavr\libraries\__cores__\arduino\Wire\src
+-IC:\Users\Mabele\.platformio\packages\framework-arduinoavr\libraries\__cores__\arduino\Wire1\src
+-IC:\Users\Mabele\.platformio\packages\framework-arduinoavr\libraries\Adafruit_CircuitPlayground
+-IC:\Users\Mabele\.platformio\packages\framework-arduinoavr\libraries\Adafruit_CircuitPlayground\utility
+-IC:\Users\Mabele\.platformio\packages\framework-arduinoavr\libraries\Bridge\src
+-IC:\Users\Mabele\.platformio\packages\framework-arduinoavr\libraries\Esplora\src
+-IC:\Users\Mabele\.platformio\packages\framework-arduinoavr\libraries\Ethernet\src
+-IC:\Users\Mabele\.platformio\packages\framework-arduinoavr\libraries\Firmata
+-IC:\Users\Mabele\.platformio\packages\framework-arduinoavr\libraries\Firmata\utility
+-IC:\Users\Mabele\.platformio\packages\framework-arduinoavr\libraries\GSM\src
+-IC:\Users\Mabele\.platformio\packages\framework-arduinoavr\libraries\HID\src
+-IC:\Users\Mabele\.platformio\packages\framework-arduinoavr\libraries\Keyboard\src
+-IC:\Users\Mabele\.platformio\packages\framework-arduinoavr\libraries\LiquidCrystal\src
+-IC:\Users\Mabele\.platformio\packages\framework-arduinoavr\libraries\Mouse\src
+-IC:\Users\Mabele\.platformio\packages\framework-arduinoavr\libraries\Robot_Control\src
+-IC:\Users\Mabele\.platformio\packages\framework-arduinoavr\libraries\Robot_Motor\src
+-IC:\Users\Mabele\.platformio\packages\framework-arduinoavr\libraries\SD\src
+-IC:\Users\Mabele\.platformio\packages\framework-arduinoavr\libraries\Scheduler\src
+-IC:\Users\Mabele\.platformio\packages\framework-arduinoavr\libraries\SpacebrewYun\src
+-IC:\Users\Mabele\.platformio\packages\framework-arduinoavr\libraries\Stepper\src
+-IC:\Users\Mabele\.platformio\packages\framework-arduinoavr\libraries\TFT\src
+-IC:\Users\Mabele\.platformio\packages\framework-arduinoavr\libraries\Temboo\src
+-IC:\Users\Mabele\.platformio\packages\framework-arduinoavr\libraries\USBHost\src
+-IC:\Users\Mabele\.platformio\packages\framework-arduinoavr\libraries\WiFi\src
+-IC:\Users\Mabele\.platformio\packages\toolchain-atmelavr\avr\include
+-IC:\Users\Mabele\.platformio\packages\toolchain-atmelavr\lib\gcc\avr\4.9.2\include
+-IC:\Users\Mabele\.platformio\packages\toolchain-atmelavr\lib\gcc\avr\4.9.2\include-fixed
+-IC:\Users\Mabele\.platformio\packages\tool-unity
+-DF_CPU=16000000L
+-DPLATFORMIO=30401
+-DARDUINO_ARCH_AVR
+-DARDUINO_AVR_UNO
+-DARDUINO=10618
+-D__AVR_ATmega328P__
